@@ -1,1 +1,2 @@
 # Market-Basket-Analysis-Pattern-Prediction
+The goal of this analysis was to determine which pairs of products are most frequently purchased together. The telecommunications company wants to reduce customer turn-over by offering discounts on items of customer interest. Knowing which products are frequently purchased together allows the company to better offer discounts and make suggestions to customers based on previous purchase history.
